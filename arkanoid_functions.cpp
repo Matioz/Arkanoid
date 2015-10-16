@@ -61,9 +61,9 @@ void DeleteBall(Ball_t &Ball){
 }
 void LoadStage(ElementsOfGame &Game){												 /*Wczytanie planszy z pliku*/
 	Game.NumberOfBlocks = 0;
-	char FileName[] = "Stage##.txt";
-	FileName[5] = (char)(Game.Stage / 10) + '0';
-	FileName[6] = (char)(Game.Stage % 10) + '0';
+	char FileName[] = "Stages/Stage##.txt";
+	FileName[12] = (char)(Game.Stage / 10) + '0';
+	FileName[13] = (char)(Game.Stage % 10) + '0';
 	SDL_RWops* file;
 	file = SDL_RWFromFile(FileName, "r");
 	if (file == NULL)
