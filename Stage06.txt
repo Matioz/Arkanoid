@@ -1,0 +1,14 @@
+.............
+.DBECA.ACEBD.
+.F.........F.
+.A.DEFGFED.A.
+.C.C.....C.C.
+.E.B.A.A.B.E.
+.B.A.B.B.A.B.
+.D.G.C.C.G.D.
+.F.F.D.D.F.F.
+.A.E.EFE.E.A.
+.C.D.....D.C.
+.E.CBA.ABC.E.
+.B.........B.
+.GGGGGGGGGGG.
